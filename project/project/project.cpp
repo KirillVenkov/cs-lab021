@@ -11,4 +11,5 @@ int main()
     cout << "A - B = " << a - b << '\n';
     cout << "A * B = " << a * b << '\n';
     cout << "A / B = " << a / b << '\n';
+    cout << min(a, b) << '\n';
 }
